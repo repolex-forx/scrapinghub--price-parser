@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/scrapinghub/price-parser/commit/6718bfe8447f2de17ecc152d3ad2a4c51520c755",
       "git:hexsha": "6718bfe8447f2de17ecc152d3ad2a4c51520c755",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T02:29:53.090875+00:00"
     },
     {
       "@id": "https://repolex.ai/r/scrapinghub/price-parser/commit/053807cc7218d8756f320bf69ddd66554ef9a145",
